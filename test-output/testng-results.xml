@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[newClass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-06T15:52:30Z" name="Default suite" finished-at="2023-06-06T15:52:30Z" duration-ms="74">
+    <groups>
+    </groups>
+    <test started-at="2023-06-06T15:52:30Z" name="Default test" finished-at="2023-06-06T15:52:30Z" duration-ms="74">
+      <class name="com.jenkins.testscript.NewClass">
+        <test-method signature="testNew()[pri:0, instance:com.jenkins.testscript.NewClass@78e4deb0]" started-at="2023-06-06T15:52:30Z" name="testNew" finished-at="2023-06-06T15:52:30Z" duration-ms="22" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[newClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testNew -->
+      </class> <!-- com.jenkins.testscript.NewClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
