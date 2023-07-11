@@ -9,5 +9,5 @@ public class Customer {
 	public void testCustomer() {
 		Reporter.log("testCustomer",true);
 	}
-	//close
+	//complete
 }
